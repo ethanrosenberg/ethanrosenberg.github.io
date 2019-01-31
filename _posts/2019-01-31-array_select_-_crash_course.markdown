@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Array .select - Crash Course"
-date:       2019-01-31 06:15:16 +0000
+date:       2019-01-31 01:15:17 -0500
 permalink:  array_select_-_crash_course
 ---
 
